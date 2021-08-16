@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hello, 👋
 
-<!--
-**MeatShifter/MeatShifter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I am MeatShifter. I utilize brain and bone to shift meat 'cross the land.
+  
+  In order to produce solutions for meatbags and vegitables.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on GTAv FiveM Server
+- 🌱 I am learning new stuff all the time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
