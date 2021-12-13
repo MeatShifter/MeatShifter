@@ -4,8 +4,9 @@
   
   In order to produce solutions for meatbags and vegitables.
 
-- 🔭 I’m currently working on GTAv FiveM Server
-- 🌱 I am learning new stuff all the time
+- 🔭 I’m currently working on a custom Operating System
+- 🌱 learning new stuff all the time
+- - ⚡ Fun fact: ducks eat free at subway.
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
