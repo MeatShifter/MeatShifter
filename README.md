@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a custom Operating System
 - 🌱 learning new stuff all the time
-- - ⚡ Fun fact: ducks eat free at subway.
+- ⚡ Fun fact: ducks eat free at subway.
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
